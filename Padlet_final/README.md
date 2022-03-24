@@ -1,3 +1,3 @@
 # Padlet
 
-Projeto criado por Heloisa Meister, Iraildes Vieira, Schelen Grossel
+Projeto criado por Heloisa Meister, Iraildes Vieira, Schelen Grossel :bowtie:
